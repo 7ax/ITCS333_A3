@@ -24,12 +24,12 @@ This project retrieves and visualizes data on student enrollments in IT bachelor
 ### Table View
 Displays the retrieved data in a searchable, paginated, and sortable table.
 
-![Table Screenshot](images\table.png)
+![Table Screenshot](images/table.png)
 
 ### Bar Chart
 Shows the number of students by nationality using a dynamic bar chart.
 
-![Graph Screenshot](images\chart.png)
+![Graph Screenshot](images/chart.png)
 
 
 
